@@ -2,6 +2,24 @@ body {
   background-color: #FFFFFF;
 }
 
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #5271ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  z-index: 1000;
+}
+
+.navbar-text {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
 h1 {
   color: #5271ff;
   text-align: center;
