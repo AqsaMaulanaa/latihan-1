@@ -5,12 +5,12 @@ body {
 .navbar {
   position: fixed;
   top: 10;
-  width: 100%;
+  width: 60%;
   background-color: #5271ff;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 60px;
+  height: 600px;
   z-index: 1000;
 }
 
