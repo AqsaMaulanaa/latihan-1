@@ -4,13 +4,13 @@ body {
 
 .navbar {
   position: fixed;
-  top: 10;
-  width: 60%;
+  top: 20;
+  width: 100%;
   background-color: #5271ff;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 600px;
+  height: 60px;
   z-index: 1000;
 }
 
