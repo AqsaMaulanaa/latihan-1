@@ -29,4 +29,5 @@ h1 {
   color: #ffffff;
   text-align: center;
   flex-direction: column;
+  z-index: 1100;
 }
